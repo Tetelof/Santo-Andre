@@ -1,0 +1,16 @@
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\bin\Debug\net5.0\Santo Andre.exe
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\bin\Debug\net5.0\Santo Andre.deps.json
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\bin\Debug\net5.0\Santo Andre.runtimeconfig.json
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\bin\Debug\net5.0\Santo Andre.runtimeconfig.dev.json
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\bin\Debug\net5.0\Santo Andre.dll
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\bin\Debug\net5.0\ref\Santo Andre.dll
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\bin\Debug\net5.0\Santo Andre.pdb
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\Santo Andre.csproj.AssemblyReference.cache
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\Santo Andre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\Santo Andre.AssemblyInfoInputs.cache
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\Santo Andre.AssemblyInfo.cs
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\Santo Andre.csproj.CoreCompileInputs.cache
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\Santo Andre.dll
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\ref\Santo Andre.dll
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\Santo Andre.pdb
+C:\Users\Danniel\Documents\Orientação a objetos\Santo Andre\obj\Debug\net5.0\Santo Andre.genruntimeconfig.cache

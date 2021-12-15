@@ -1,0 +1,17 @@
+0011
+Joao da Silva Nascimento
+1750
+4321
+False
+
+0002
+Maria Dolores Nascimento
+284
+4321
+True
+
+0003
+Beff Jeezos
+478949211027
+987654321
+False
