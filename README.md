@@ -11,3 +11,5 @@ RELATORIO 25/11: O projeto já esta encaminhado, o programa esta sendo melhorado
 RELATORIO 02/12: O projeto esta pronto, estamos adicionando melhorias e a criação da ContaPJ.
 
 RELATORIO 09/12: Projeto finalizado.
+
+Link para o video: https://youtu.be/uLkeOqjW2sI
